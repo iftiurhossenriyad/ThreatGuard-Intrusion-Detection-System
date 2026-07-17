@@ -1,0 +1,38 @@
+1783985370|admin|DEFAULT_ACCOUNT|Admin account created
+1783985370|user|DEFAULT_ACCOUNT|Demo account created
+1783985370|sampleuser|REGISTRATION|New user registered
+1783985385|sampleuser2|REGISTRATION|New user registered
+1783985588|sampleuser3|REGISTRATION|New user registered
+1783985598|sampleuser4|REGISTRATION|New user registered
+1783985598|sampleuser4|LOGIN_SUCCESS|User logged in
+1783985664|admin|ADMIN_LOGIN|Admin logged in
+1783985718|azmir|REGISTRATION|New user registered
+1783985736|azmir|LOGIN_SUCCESS|User logged in
+1783997728|admin|ADMIN_LOGIN|Admin logged in
+1783997836|azmir|LOGIN_FAILURE|Incorrect password
+1783997849|azmir|LOGIN_FAILURE|Incorrect password
+1783997862|azmir|BRUTE_FORCE_ALERT|Account locked after failed login attempts
+1783997877|admin|ADMIN_LOGIN|Admin logged in
+1783997892|azmir|ACCOUNT_UNLOCK|Account unlocked by admin
+1783998396|momtasin|REGISTRATION|New user registered
+1783998412|momtasin|LOGIN_FAILURE|Incorrect password
+1783998433|Momtasin|LOGIN_FAILURE|Username not found
+1783998474|momtasin|LOGIN_SUCCESS|User logged in
+1783998590|admin|LOGIN_FAILURE|Incorrect password
+1783998606|admin|LOGIN_FAILURE|Incorrect password
+1783998651|admin|ADMIN_LOGIN|Admin logged in
+1783999781|Tasin|REGISTRATION|New user registered
+1783999795|Tasin|LOGIN_SUCCESS|User logged in
+1783999836|Tasin|PASSWORD_CHANGE|User password changed
+1783999869|admin|ADMIN_LOGIN|Admin logged in
+1784000231|eyasin|REGISTRATION|New user registered
+1784000462|eyasin|LOGIN_SUCCESS|User logged in
+1784000529|admin|ADMIN_LOGIN|Admin logged in
+1784002985|momtasin|LOGIN_FAILURE|Incorrect password
+1784003003|momtasin|LOGIN_FAILURE|Incorrect password
+1784003015|momtasin|BRUTE_FORCE_ALERT|Account locked after failed login attempts
+1784003060|admin|ADMIN_LOGIN|Admin logged in
+1784003150|riyad|REGISTRATION|New user registered
+1784003176|riyad|LOGIN_SUCCESS|User logged in
+1784003286|admin|ADMIN_LOGIN|Admin logged in
+1784008317|admin|ADMIN_LOGIN|Admin logged in
